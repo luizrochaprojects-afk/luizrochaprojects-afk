@@ -25,4 +25,4 @@ I start from the spec and the ways it can fail, then build with Claude Code behi
 
 ## Contact
 
-[revbridge.ai](https://revbridge.ai)
+[LinkedIn](https://www.linkedin.com/in/luiz-rochaa/) · [luizhenrique.projects@gmail.com](mailto:luizhenrique.projects@gmail.com) · [revbridge.ai](https://revbridge.ai)
