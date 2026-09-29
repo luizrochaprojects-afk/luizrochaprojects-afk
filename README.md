@@ -19,10 +19,6 @@ Before that I was the first employee at Gringo, which grew from 100K to over 1M 
 | [NutriHero](https://github.com/luizrochaprojects-afk/nutrihero) | Product case: a 3-week sprint from brief to handoff for a nutrition app, with a clickable prototype. | HTML, CSS, JavaScript |
 | [CCAT Trainer](https://github.com/luizrochaprojects-afk/ccat-trainer) | Timed test practice. Every question comes from a deterministic generator, and five gates re-check its answer key. | React, TypeScript, Capacitor |
 
-## How I work
-
-I start from the spec and the ways it can fail, then build with Claude Code behind checks a machine can run: tests, content gates, sanitize scans.
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/luiz-rochaa/) · [luizhenrique.projects@gmail.com](mailto:luizhenrique.projects@gmail.com) · [revbridge.ai](https://revbridge.ai)
